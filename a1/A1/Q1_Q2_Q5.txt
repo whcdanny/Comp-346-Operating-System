@@ -1,0 +1,31 @@
+
+
+
+Task1.	The consistent state of the account array is not met, because there are two thread that access to the 	“balance” at same time. 
+	The poses the atomicity problem that a thread could update its part of data before other thread begin to 	modify it. We do not know which thread is finish.
+
+	The bug is :
+			for(int i=0; i<10; i++){
+			deposit[i].start();
+			withdraw[i].start();
+		}
+	In “deposit” and “withdraw” part.
+
+
+
+
+
+Task2.	When the start() is invoked, it determines the start order of the threads.
+	The lifetime of a thread:
+		(1). New state, it created but start() method is not called.
+		(2). Runnable, this ready to run, waiting for CPU cycle.
+		(3).running state, is allocate CPU cycle.
+		(4). Wait state, this is waiting for a notify.
+		(5).stopped state, it means completed.
+	Yes, according to the experiment, the consistency of the accounts is preserved.
+
+
+
+
+
+Task5.	Consider the result of task3 and task 4, I find task3_time is slower than task4_time. So, the advantage of synchronize block over synchronized method is time. Also, synchronized block is allows using a private variable for the lock and so forcing the lock to stay inside the class, and can be found by searching references to the variable.
