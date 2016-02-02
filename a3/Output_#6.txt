@@ -1,0 +1,388 @@
+Enter the number of PHILOSOPHERS? 6
+Finally, a given phil(1) has started EATING!!
+6 philosopher(s) came in for a dinner.
+Finally, a given phil(3) has started EATING!!
+Finally, a given phil(5) has started EATING!!
+Finally, a given phil(1) has finished EATING!!!!
+A given phil(1) has started thinking.
+Finally, a given phil(3) has finished EATING!!!!
+A given phil(3) has started thinking.
+Finally, a given phil(2) has started EATING!!
+Finally, a given phil(5) has finished EATING!!!!
+A given phil(5) has started thinking.
+Finally, a given phil(4) has started EATING!!
+Finally, a given phil(6) has started EATING!!
+Finally, a given phil(2) has finished EATING!!!!
+A given phil(2) has started thinking.
+Finally, a given phil(6) has finished EATING!!!!
+A given phil(6) has started thinking.
+A given phil(6) has finished thinking.
+Finally, a given phil(6) has started EATING!!
+Finally, a given phil(6) has finished EATING!!!!
+A given phil(6) has started thinking.
+Finally, a given phil(4) has finished EATING!!!!
+A given phil(4) has started thinking.
+A given phil(1) has finished thinking.
+Finally, a given phil(1) has started EATING!!
+A given phil(2) has finished thinking.
+
+A given phil(2) has started TALKING.
+Philosopher 2 says: 2 + 2 = 5 for extremely large values of 2...
+A given phil(2) has finished TALKING.
+
+A given phil(5) has finished thinking.
+
+A given phil(5) has started TALKING.
+Philosopher 5 says: 2 + 2 = 5 for extremely large values of 2...
+A given phil(5) has finished TALKING.
+
+Finally, a given phil(2) has started EATING!!
+Finally, a given phil(5) has started EATING!!
+Finally, a given phil(5) has finished EATING!!!!
+A given phil(5) has started thinking.
+A given phil(3) has finished thinking.
+
+A given phil(3) has started TALKING.
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+A given phil(3) has finished TALKING.
+
+Finally, a given phil(3) has started EATING!!
+Finally, a given phil(3) has finished EATING!!!!
+A given phil(3) has started thinking.
+A given phil(6) has finished thinking.
+
+A given phil(6) has started TALKING.
+Philosopher 6 says: 2 + 2 = 5 for extremely large values of 2...
+A given phil(6) has finished TALKING.
+
+A given phil(3) has finished thinking.
+
+A given phil(3) has started TALKING.
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+A given phil(3) has finished TALKING.
+
+Finally, a given phil(6) has started EATING!!
+Finally, a given phil(3) has started EATING!!
+Finally, a given phil(1) has finished EATING!!!!
+A given phil(1) has started thinking.
+A given phil(5) has finished thinking.
+A given phil(4) has finished thinking.
+Finally, a given phil(6) has finished EATING!!!!
+Finally, a given phil(5) has started EATING!!
+A given phil(6) has started thinking.
+A given phil(6) has finished thinking.
+Finally, a given phil(2) has finished EATING!!!!
+Finally, a given phil(4) has started EATING!!
+A given phil(2) has started thinking.
+Finally, a given phil(3) has finished EATING!!!!
+A given phil(3) has started thinking.
+Finally, a given phil(5) has finished EATING!!!!
+Finally, a given phil(6) has started EATING!!
+A given phil(5) has started thinking.
+A given phil(1) has finished thinking.
+Finally, a given phil(6) has finished EATING!!!!
+Finally, a given phil(1) has started EATING!!
+A given phil(6) has started thinking.
+Finally, a given phil(4) has finished EATING!!!!
+A given phil(4) has started thinking.
+A given phil(5) has finished thinking.
+
+A given phil(5) has started TALKING.
+Philosopher 5 says: My number is 5
+A given phil(5) has finished TALKING.
+
+Finally, a given phil(5) has started EATING!!
+A given phil(2) has finished thinking.
+
+A given phil(2) has started TALKING.
+Philosopher 2 says: 2 + 2 = 5 for extremely large values of 2...
+A given phil(2) has finished TALKING.
+
+A given phil(3) has finished thinking.
+Finally, a given phil(3) has started EATING!!
+Finally, a given phil(3) has finished EATING!!!!
+A given phil(3) has started thinking.
+A given phil(6) has finished thinking.
+
+A given phil(6) has started TALKING.
+Philosopher 6 says: 2 + 2 = 5 for extremely large values of 2...
+A given phil(6) has finished TALKING.
+
+Finally, a given phil(2) has started EATING!!
+A given phil(3) has finished thinking.
+Finally, a given phil(3) has started EATING!!
+Finally, a given phil(3) has finished EATING!!!!
+A given phil(3) has started thinking.
+A given phil(3) has finished thinking.
+
+A given phil(3) has started TALKING.
+Philosopher 3 says: If thee cannot speak, thee must be silent
+A given phil(3) has finished TALKING.
+
+Finally, a given phil(3) has started EATING!!
+Finally, a given phil(6) has started EATING!!
+Finally, a given phil(3) has finished EATING!!!!
+A given phil(3) has started thinking.
+A given phil(4) has finished thinking.
+Finally, a given phil(5) has finished EATING!!!!
+Finally, a given phil(4) has started EATING!!
+A given phil(5) has started thinking.
+A given phil(5) has finished thinking.
+
+A given phil(5) has started TALKING.
+Philosopher 5 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+A given phil(5) has finished TALKING.
+
+Finally, a given phil(1) has finished EATING!!!!
+A given phil(1) has started thinking.
+Finally, a given phil(5) has started EATING!!
+Finally, a given phil(4) has finished EATING!!!!
+A given phil(4) has started thinking.
+A given phil(3) has finished thinking.
+
+A given phil(3) has started TALKING.
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+A given phil(3) has finished TALKING.
+
+A given phil(1) has finished thinking.
+
+A given phil(1) has started TALKING.
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+A given phil(1) has finished TALKING.
+
+Finally, a given phil(3) has started EATING!!
+Finally, a given phil(2) has finished EATING!!!!
+Finally, a given phil(1) has started EATING!!
+A given phil(2) has started thinking.
+Finally, a given phil(5) has finished EATING!!!!
+A given phil(5) has started thinking.
+A given phil(4) has finished thinking.
+Finally, a given phil(6) has finished EATING!!!!
+A given phil(6) has started thinking.
+Finally, a given phil(4) has started EATING!!
+Finally, a given phil(1) has finished EATING!!!!
+A given phil(1) has started thinking.
+A given phil(2) has finished thinking.
+
+A given phil(2) has started TALKING.
+Philosopher 2 says: If thee cannot speak, thee must be silent
+A given phil(2) has finished TALKING.
+
+A given phil(6) has finished thinking.
+Finally, a given phil(6) has started EATING!!
+A given phil(1) has finished thinking.
+
+A given phil(1) has started TALKING.
+Philosopher 1 says: You know, true is false and false is true if you think of it
+A given phil(1) has finished TALKING.
+
+Finally, a given phil(2) has started EATING!!
+Finally, a given phil(2) has finished EATING!!!!
+Finally, a given phil(1) has started EATING!!
+A given phil(2) has started thinking.
+A given phil(2) has finished thinking.
+A given phil(5) has finished thinking.
+Finally, a given phil(3) has finished EATING!!!!
+Finally, a given phil(2) has started EATING!!
+A given phil(3) has started thinking.
+Finally, a given phil(5) has started EATING!!
+Finally, a given phil(6) has finished EATING!!!!
+A given phil(6) has started thinking.
+Finally, a given phil(5) has finished EATING!!!!
+A given phil(5) has started thinking.
+Finally, a given phil(4) has finished EATING!!!!
+A given phil(4) has started thinking.
+A given phil(4) has finished thinking.
+
+A given phil(4) has started TALKING.
+Philosopher 4 says: My number is 4
+A given phil(4) has finished TALKING.
+
+Finally, a given phil(4) has started EATING!!
+Finally, a given phil(2) has finished EATING!!!!
+A given phil(2) has started thinking.
+Finally, a given phil(1) has finished EATING!!!!
+A given phil(1) has started thinking.
+Finally, a given phil(4) has finished EATING!!!!
+A given phil(4) has started thinking.
+A given phil(6) has finished thinking.
+
+A given phil(6) has started TALKING.
+Philosopher 6 says: If thee cannot speak, thee must be silent
+A given phil(6) has finished TALKING.
+
+Finally, a given phil(6) has started EATING!!
+A given phil(3) has finished thinking.
+Finally, a given phil(3) has started EATING!!
+Finally, a given phil(6) has finished EATING!!!!
+A given phil(6) has started thinking.
+A given phil(2) has finished thinking.
+A given phil(5) has finished thinking.
+
+A given phil(5) has started TALKING.
+Philosopher 5 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+A given phil(5) has finished TALKING.
+
+Finally, a given phil(5) has started EATING!!
+Finally, a given phil(2) has started EATING!!
+A given phil(6) has finished thinking.
+A given phil(4) has finished thinking.
+
+A given phil(4) has started TALKING.
+Philosopher 4 says: 2 + 2 = 5 for extremely large values of 2...
+A given phil(4) has finished TALKING.
+
+Finally, a given phil(6) has started EATING!!
+Finally, a given phil(3) has finished EATING!!!!
+A given phil(3) has started thinking.
+Finally, a given phil(4) has started EATING!!
+Finally, a given phil(5) has finished EATING!!!!
+A given phil(5) has started thinking.
+Finally, a given phil(6) has finished EATING!!!!
+A given phil(6) has started thinking.
+A given phil(1) has finished thinking.
+Finally, a given phil(4) has finished EATING!!!!
+A given phil(4) has started thinking.
+Finally, a given phil(2) has finished EATING!!!!
+A given phil(2) has started thinking.
+Finally, a given phil(1) has started EATING!!
+A given phil(5) has finished thinking.
+
+A given phil(5) has started TALKING.
+Philosopher 5 says: My number is 5
+A given phil(5) has finished TALKING.
+
+Finally, a given phil(5) has started EATING!!
+A given phil(3) has finished thinking.
+Finally, a given phil(3) has started EATING!!
+Finally, a given phil(3) has finished EATING!!!!
+A given phil(3) has started thinking.
+Finally, a given phil(5) has finished EATING!!!!
+A given phil(5) has started thinking.
+A given phil(6) has finished thinking.
+
+A given phil(6) has started TALKING.
+Philosopher 6 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+A given phil(6) has finished TALKING.
+
+A given phil(2) has finished thinking.
+
+A given phil(2) has started TALKING.
+Philosopher 2 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+A given phil(2) has finished TALKING.
+
+Finally, a given phil(6) has started EATING!!
+Finally, a given phil(1) has finished EATING!!!!
+A given phil(1) has started thinking.
+Finally, a given phil(2) has started EATING!!
+A given phil(3) has finished thinking.
+Finally, a given phil(6) has finished EATING!!!!
+A given phil(6) has started thinking.
+A given phil(4) has finished thinking.
+Finally, a given phil(4) has started EATING!!
+A given phil(1) has finished thinking.
+A given phil(6) has finished thinking.
+
+A given phil(6) has started TALKING.
+Philosopher 6 says: My number is 6
+A given phil(6) has finished TALKING.
+
+Finally, a given phil(3) has started EATING!!
+Finally, a given phil(6) has started EATING!!
+Finally, a given phil(6) has finished EATING!!!!
+A given phil(6) has started thinking.
+A given phil(5) has finished thinking.
+Finally, a given phil(3) has finished EATING!!!!
+Finally, a given phil(1) has started EATING!!
+Finally, a given phil(5) has started EATING!!
+A given phil(3) has started thinking.
+Finally, a given phil(4) has finished EATING!!!!
+A given phil(4) has started thinking.
+A given phil(4) has finished thinking.
+
+A given phil(4) has started TALKING.
+Philosopher 4 says: If thee cannot speak, thee must be silent
+A given phil(4) has finished TALKING.
+
+Finally, a given phil(2) has finished EATING!!!!
+Finally, a given phil(4) has started EATING!!
+A given phil(2) has started thinking.
+A given phil(3) has finished thinking.
+Finally, a given phil(1) has finished EATING!!!!
+A given phil(1) has started thinking.
+A given phil(2) has finished thinking.
+Finally, a given phil(2) has started EATING!!
+A given phil(6) has finished thinking.
+
+A given phil(6) has started TALKING.
+Philosopher 6 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+A given phil(6) has finished TALKING.
+
+Finally, a given phil(5) has finished EATING!!!!
+A given phil(5) has started thinking.
+Finally, a given phil(4) has finished EATING!!!!
+A given phil(4) has started thinking.
+A given phil(1) has finished thinking.
+Finally, a given phil(2) has finished EATING!!!!
+A given phil(2) has started thinking.
+Finally, a given phil(1) has started EATING!!
+A given phil(5) has finished thinking.
+
+A given phil(5) has started TALKING.
+Philosopher 5 says: My number is 5
+A given phil(5) has finished TALKING.
+
+Finally, a given phil(5) has started EATING!!
+A given phil(4) has finished thinking.
+A given phil(2) has finished thinking.
+Finally, a given phil(1) has finished EATING!!!!
+A given phil(1) has started thinking.
+Finally, a given phil(4) has started EATING!!
+A given phil(1) has finished thinking.
+
+A given phil(1) has started TALKING.
+Philosopher 1 says: You know, true is false and false is true if you think of it
+A given phil(1) has finished TALKING.
+
+Finally, a given phil(2) has started EATING!!
+Finally, a given phil(4) has finished EATING!!!!
+A given phil(4) has started thinking.
+Finally, a given phil(1) has started EATING!!
+Finally, a given phil(1) has finished EATING!!!!
+A given phil(1) has started thinking.
+Finally, a given phil(5) has finished EATING!!!!
+A given phil(5) has started thinking.
+A given phil(4) has finished thinking.
+Finally, a given phil(4) has started EATING!!
+Finally, a given phil(2) has finished EATING!!!!
+A given phil(2) has started thinking.
+A given phil(2) has finished thinking.
+
+A given phil(2) has started TALKING.
+Philosopher 2 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+A given phil(2) has finished TALKING.
+
+Finally, a given phil(2) has started EATING!!
+A given phil(1) has finished thinking.
+Finally, a given phil(4) has finished EATING!!!!
+A given phil(4) has started thinking.
+A given phil(4) has finished thinking.
+A given phil(5) has finished thinking.
+Finally, a given phil(2) has finished EATING!!!!
+A given phil(2) has started thinking.
+Finally, a given phil(1) has started EATING!!
+A given phil(2) has finished thinking.
+
+A given phil(2) has started TALKING.
+Philosopher 2 says: You know, true is false and false is true if you think of it
+A given phil(2) has finished TALKING.
+
+Finally, a given phil(1) has finished EATING!!!!
+A given phil(1) has started thinking.
+A given phil(1) has finished thinking.
+
+A given phil(1) has started TALKING.
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+A given phil(1) has finished TALKING.
+
+All philosophers have left. System terminates normally.
